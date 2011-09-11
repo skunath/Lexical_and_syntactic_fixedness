@@ -1,0 +1,1 @@
+Go4 = [pos="V.*" ][]{0,3}[pos="N.*"  & word="consciousness"]; size Go4;

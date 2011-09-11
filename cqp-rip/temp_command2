@@ -1,0 +1,1 @@
+Go2 = [pos="V.*"  & word="motivate"][]{0,3}[pos="N.*"  & word="birth"]; size Go2;

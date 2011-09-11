@@ -1,0 +1,1 @@
+Go3 = [pos="V.*" ][]{0,3}[pos="N.*"  & word="students"]; size Go3;

@@ -1,0 +1,1 @@
+Go8 = [pos="V.*" ][]{0,3}[pos="N.*"  & word="discourse"]; size Go8;

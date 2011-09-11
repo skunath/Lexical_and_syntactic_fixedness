@@ -1,0 +1,1 @@
+Go5 = [pos="V.*" ][]{0,3}[pos="N.*"  & word="decisions"]; size Go5;

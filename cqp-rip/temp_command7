@@ -1,0 +1,1 @@
+Go7 = [pos="V.*" ][]{0,3}[pos="N.*"  & word="nice"]; size Go7;

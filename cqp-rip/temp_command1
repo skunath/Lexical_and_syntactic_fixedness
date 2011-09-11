@@ -1,0 +1,1 @@
+Go1 = [pos="V.*" ][]{0,3}[pos="N.*"  & word="fund"]; size Go1;

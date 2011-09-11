@@ -1,0 +1,1 @@
+Go = [ pos="J.*"] [ word="people" &  pos="N.*"]; size Go;
